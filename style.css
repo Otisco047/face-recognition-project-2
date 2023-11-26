@@ -1,0 +1,15 @@
+.heading{
+    width: 80%;
+    font-size: 25px;
+}
+body{
+    background: linear-gradient(rgb(255, 0, 0),rgb(140, 39, 255),rgb(34, 113, 239));
+}
+.name_of_objects{
+    color:rgb(0, 255, 98) ;
+}
+#camera{
+    width: 350px;
+    height:300px;
+    border: 4px dashed rgb(127, 236, 255);
+}
